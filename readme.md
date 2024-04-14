@@ -211,7 +211,53 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
-    <tr>
+ <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/152230716?v=4" width="50">
+                <br>
+                <h2>Abdelkabir Ouadoukou</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/khabzox">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/khabzox">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/khabzox">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
+    
+ 
+<tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
