@@ -231,7 +231,7 @@
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a href="https://www.linkedin.com/in/yarobhm/">
+                        <a href="https://www.linkedin.com/in/khabzox/">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
