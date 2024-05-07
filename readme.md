@@ -214,7 +214,7 @@
  <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
-            <a href="https://github.com/Yarob50">
+            <a href="https://github.com/khabzox">
                 <img src="https://avatars.githubusercontent.com/u/152230716?v=4" width="50">
                 <br>
                 <h2>Abdelkabir Ouadoukou</h2>
